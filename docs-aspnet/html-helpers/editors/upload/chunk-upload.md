@@ -52,7 +52,8 @@ To enable the chunk upload:
     using System;
     using System.Collections.Generic;
     using System.IO;
-    using Newtonsoft.Json;
+    using Newtonsoft.Json; //Remove Dependency on this
+    using System.Text.Json;
     using System.Text;
     using System.Net.Http.Headers;
     using System.Threading.Tasks;
