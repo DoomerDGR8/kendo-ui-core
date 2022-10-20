@@ -64,7 +64,7 @@ To enable the table editing, you should add the `TableEditing` tool to the widge
 ```
 {% endif %}
 
-## Inserting a Table
+## Inserting a Table ,-
 
 To insert a new table by using the Table Wizard dialog:
 
